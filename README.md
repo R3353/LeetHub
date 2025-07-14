@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R3353/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/R3353/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/R3353/LeetHub/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/R3353/LeetHub/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -105,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
