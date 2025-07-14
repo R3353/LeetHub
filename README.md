@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/R3353/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R3353/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/R3353/LeetHub/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
