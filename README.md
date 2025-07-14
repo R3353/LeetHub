@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/R3353/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/R3353/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R3353/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
 | ------- |
@@ -82,4 +85,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/R3353/LeetHub/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/R3353/LeetHub/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/R3353/LeetHub/tree/master/0344-reverse-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/R3353/LeetHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
