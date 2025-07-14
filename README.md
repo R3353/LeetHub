@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/R3353/LeetHub/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/R3353/LeetHub/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/R3353/LeetHub/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/R3353/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/R3353/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/R3353/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/R3353/LeetHub/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/R3353/LeetHub/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
