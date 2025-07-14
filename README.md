@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/R3353/LeetHub/tree/master/0002-add-two-numbers) |
+| [0412-fizz-buzz](https://github.com/R3353/LeetHub/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/R3353/LeetHub/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/R3353/LeetHub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/R3353/LeetHub/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/R3353/LeetHub/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/R3353/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/R3353/LeetHub/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
